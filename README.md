@@ -1,4 +1,4 @@
 # flow
 Test repository for Git workshop
 
-User1 is a good developer
+User2 is the best developer
