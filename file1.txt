@@ -1,2 +1,2 @@
-Hello from User2
+Hello from User2 to all users
 What are you doing?
